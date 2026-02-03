@@ -1,144 +1,163 @@
-<h1 align="center">Rajesh Vardhan Busam</h1>
-
 <p align="center">
-  <em>Designing Secure, Self-Healing Platforms at Scale</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Rajesh+Vardhan+Busam;Senior+DevSecOps+%7C+Platform+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;Designing+Secure%2C+Self-Healing+Platforms"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajesh-vardhan-busam">LinkedIn</a> •
-  <a href="https://rajeshbusam.netlify.app">Portfolio</a> •
-  <a href="mailto:rajeshvardhan0711@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/rajesh-vardhan-busam">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin"/>
+  </a>
+  <a href="https://rajeshbusam.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github"/>
+  </a>
+  <a href="mailto:rajeshvardhan0711@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
-## 🛡️ Core Philosophy
+## 🧠 PROFESSIONAL SUMMARY
 
-> With over **7+ years** in Cloud Engineering, I believe that **DevSecOps is a culture of accountability**.  
->  
-> My mission is to build infrastructure that is:
-> - 🔐 **Intrinsically secure**
-> - 📊 **Deeply observable**
-> - 💰 **Financially optimized**
-> - 🤖 **Highly automated & resilient**
+> **Senior DevSecOps & Platform Engineer** with **7+ years of experience** building  
+> **secure, scalable, highly-available cloud platforms** across AWS, Kubernetes, and CI/CD ecosystems.
 
----
+🔹 Cloud-native & multi-cloud architectures  
+🔹 Kubernetes platform engineering  
+🔹 Infrastructure as Code (Terraform-first)  
+🔹 DevSecOps & compliance automation  
+🔹 Observability, reliability & cost optimization  
 
-## 🧰 Technical Skills
-
-| Cloud Platforms | Containerization | CI/CD | Infrastructure |
-|---------------|----------------|-------|----------------|
-| AWS<br>Azure<br>Google Cloud | Docker<br>Kubernetes<br>Helm | Jenkins<br>GitLab CI<br>GitHub Actions | Terraform<br>Ansible |
-
-| Monitoring | Databases | Programming | Security |
-|----------|-----------|------------|----------|
-| Prometheus<br>Grafana<br>ELK Stack | PostgreSQL<br>MySQL | Python<br>Bash | HashiCorp Vault<br>AWS IAM<br>RBAC<br>SSL/TLS |
+💼 *Open to senior roles & consulting opportunities*
 
 ---
 
-## 🚀 Professional Trajectory
+## 🧰 TECHNICAL CAPABILITIES
 
-### **Senior DevSecOps Engineer** — EPAM Systems  
-📍 Hyderabad &nbsp;&nbsp;|&nbsp;&nbsp; 📅 *June 2023 – Present*
+### ☁️ Cloud & Platforms
+| AWS | Azure | GCP |
+|-----|-------|-----|
+| VPC, EKS, IAM | AKS, Networking | GKE, IAM |
 
-**Key Achievements**
-- Designed and automated AWS infrastructure using **Terraform & Ansible**, reducing provisioning time by **60%**
-- Deployed and managed **highly available Kubernetes clusters** with RBAC and monitoring, improving uptime by **30%**
-- Built scalable **CI/CD pipelines** using Jenkins & GitLab CI, reducing release cycles from weeks to hours
-- Integrated **DevSecOps practices** (image scanning, secrets management, policy enforcement)
-- Implemented AWS **cost optimization strategies**, reducing monthly spend by **20%**
+### ☸ Containers & Orchestration
+| Docker | Kubernetes | Helm |
+|--------|------------|------|
 
-**Technologies:**  
+### ⚙️ CI/CD & Automation
+| Jenkins | GitLab CI | GitHub Actions |
+|--------|-----------|----------------|
+
+### 🏗 Infrastructure as Code
+| Terraform | Ansible |
+|-----------|----------|
+
+### 📊 Observability & Logging
+| Prometheus | Grafana | ELK Stack |
+|------------|----------|-----------|
+
+### 🔐 Security & DevSecOps
+| Vault | IAM | RBAC | TLS |
+|-------|-----|------|-----|
+
+---
+
+## 🚀 PROFESSIONAL EXPERIENCE
+
+### 🔹 **Senior DevSecOps Engineer — EPAM Systems**
+📍 Hyderabad  🗓 *Jun 2023 – Present*
+
+**Key Contributions**
+- 🚀 Reduced infra provisioning time by **60%** using Terraform & Ansible
+- ☸ Built HA Kubernetes clusters with RBAC & monitoring (**30% uptime gain**)
+- 🔄 Designed CI/CD pipelines reducing release cycles from weeks → hours
+- 🔐 Embedded DevSecOps (image scanning, secrets, policy enforcement)
+- 💰 Optimized AWS costs achieving **20% monthly savings**
+
+**Stack:**  
 `AWS` `Kubernetes` `Terraform` `Jenkins` `GitLab CI` `Docker` `Prometheus`
 
 ---
 
-### **DevSecOps Engineer** — Eastvantage  
-🌍 Remote &nbsp;&nbsp;|&nbsp;&nbsp; 📅 *May 2022 – May 2023*
+### 🔹 **DevSecOps Engineer — Eastvantage**
+🌍 Remote  🗓 *May 2022 – May 2023*
 
-**Key Achievements**
-- Partnered with developers to optimize CI/CD workflows and accelerate feature delivery
-- Automated infrastructure operations using **Shell & Ansible**, reducing manual effort by **50%**
-- Deployed Docker-based microservices on Kubernetes for production workloads
-- Implemented autoscaling strategies resulting in **35% cost reduction**
-- Built monitoring & alerting dashboards with Prometheus & Grafana, improving MTTR
+- Automated infra tasks reducing manual effort by **50%**
+- Deployed Docker microservices on Kubernetes
+- Implemented autoscaling → **35% cost reduction**
+- Improved MTTR via Prometheus & Grafana dashboards
 
-**Technologies:**  
-`AWS` `Jenkins` `Docker` `ELK Stack` `Ansible` `Python`
+**Stack:**  
+`AWS` `Jenkins` `Docker` `ELK` `Ansible` `Python`
 
 ---
 
-### **Cloud Engineer** — Cyient India Pvt Ltd  
-📍 Austin, TX &nbsp;&nbsp;|&nbsp;&nbsp; 📅 *Sep 2018 – Dec 2021*
+### 🔹 **Cloud Engineer — Cyient India Pvt Ltd**
+📍 Austin, TX  🗓 *Sep 2018 – Dec 2021*
 
-**Key Achievements**
-- Managed Linux & Windows servers (patching, upgrades, troubleshooting)
-- Built and maintained Jenkins pipelines for automated builds and deployments
-- Containerized legacy applications using Docker for cloud migration
-- Monitored infrastructure and application health using open-source tools
-- Supported large-scale cloud migration and automation initiatives
+- Linux & Windows server operations
+- Jenkins-based CI/CD automation
+- Dockerized legacy apps for cloud migration
+- Supported large-scale cloud transformation
 
-**Technologies:**  
-`AWS` `CloudWatch` `Linux` `Bash` `Git` `MySQL`
+**Stack:**  
+`AWS` `Linux` `Bash` `Git` `MySQL`
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 FEATURED PROJECTS
 
-### **Complete Kubernetes Platform**
-Designed and implemented a unified Kubernetes platform on AWS with centralized management, CI/CD integration, and observability.
+### ⭐ **DevOps Production Blueprint**
+> Enterprise-grade reference architecture (not a demo)
 
-**Technologies:**  
-`Kubernetes` `Terraform` `Jenkins` `Prometheus` `Grafana`
+✔ Terraform-based AWS & EKS infra  
+✔ Secure Kubernetes (RBAC, policies)  
+✔ Jenkins & GitHub Actions pipelines  
+✔ Helm-based deployments  
+✔ Prometheus, Grafana, ELK  
+✔ TLS, secrets, audit logging  
 
-**Impact:**  
-➡️ Reduced deployment complexity by **70%**  
-➡️ Improved resource utilization by **45%**
-
----
-
-### **Automated Security Compliance Pipeline**
-Built a full security and compliance automation pipeline integrating SAST, DAST, and infrastructure security scans.
-
-**Technologies:**  
-`Jenkins` `SonarQube` `OWASP ZAP` `Python`
-
-**Impact:**  
-➡️ Achieved **SOC 2 Type II** compliance  
-➡️ Reduced vulnerabilities by **85%**
+📌 **Repo:** `devops-production-blueprint`
 
 ---
 
-### **Microservices Monitoring Stack**
-Implemented end-to-end observability (metrics, logs, tracing) for large-scale microservices architecture.
-
-**Technologies:**  
-`Prometheus` `Grafana` `ELK Stack` `OpenTelemetry`
-
-**Impact:**  
-➡️ Reduced MTTR by **60%**  
-➡️ Improved system reliability significantly
+### ☸ Kubernetes Platform Engineering
+- Centralized cluster management
+- **70% reduction** in deployment complexity
+- **45% better** resource utilization
 
 ---
 
-### **Automated Infrastructure Provisioning**
-Fully automated infrastructure creation using Terraform and Ansible across environments.
-
-**Technologies:**  
-`AWS` `Terraform` `Ansible`
-
-**Impact:**  
-➡️ Achieved **40% cloud cost reduction** while maintaining performance
+### 🔐 Security Compliance Automation
+- SAST + DAST + infra scanning
+- **SOC 2 Type II**
+- **85% vulnerability reduction**
 
 ---
 
-## 🎓 Certifications
+### 📊 Observability Platform
+- Monitoring for **50+ microservices**
+- **60% MTTR reduction**
 
-- **Certified Kubernetes Administrator (CKA)** — *Previously Certified*  
-  *(Strong hands-on Kubernetes administration & production experience)*
+---
+
+## 🎓 CERTIFICATIONS
+
+🎖 **Certified Kubernetes Administrator (CKA)**  
+*(Previously certified – strong real-world Kubernetes experience)*
+
+---
+
+## 📈 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshvartdhanb&show_icons=true&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshvartdhanb&layout=compact&theme=github_dark"/>
+</p>
 
 ---
 
 <p align="center">
-  <sub>Built with resilience, security, and scale in mind • © 2026 Rajesh Vardhan Busam</sub>
+  <sub>⚙️ Automation • 🔐 Security • 📈 Reliability • ☁️ Scale</sub>
 </p>
