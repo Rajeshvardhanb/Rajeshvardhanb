@@ -1,160 +1,154 @@
-<h1 align="center">Rajesh Vardhan Busam</h1>
+<h1 align="center">👋 Rajesh Vardhan Busam</h1>
 
 <p align="center">
-  <strong>Senior DevSecOps / Platform Engineer</strong><br/>
-  Designing secure, scalable, self-healing cloud platforms
+  <strong>Senior DevSecOps & Platform Engineer</strong><br/>
+  <em>Designing secure, scalable & self-healing cloud platforms</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajesh-vardhan-busam">LinkedIn</a> ·
-  <a href="https://rajeshbusam.netlify.app">Portfolio</a> ·
-  <a href="mailto:rajeshvardhan0711@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/rajesh-vardhan-busam">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://rajeshbusam.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:rajeshvardhan0711@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 👋 Overview
+## 🧠 About Me
 
-I am a **Senior DevSecOps Engineer** with **7+ years of experience** building and operating **production-grade cloud platforms**.  
-My work sits at the intersection of **infrastructure, security, automation, and reliability**.
+🚀 Senior **DevSecOps / Platform Engineer** with **7+ years of experience** building and operating  
+**production-grade cloud infrastructure** for scale, security, and reliability.
 
-I focus on:
-- Designing Kubernetes-first platforms
-- Infrastructure as Code using Terraform
-- CI/CD systems that scale with teams
-- Observability, cost control, and security by default
+✨ What I focus on:
+- ☁️ Cloud-native & multi-cloud platforms
+- ☸ Kubernetes platform engineering
+- ⚙️ CI/CD automation & DevSecOps
+- 🏗 Infrastructure as Code (Terraform-first)
+- 📊 Observability, cost optimization & reliability
+- 🤖 AI-assisted DevOps (Cursor)
 
-I am open to **senior engineering roles** and **consulting engagements**.
-
----
-
-## 🧭 Engineering Philosophy
-
-I believe DevSecOps is not a toolchain — it is a **culture of ownership**.
-
-Well-designed platforms should be:
-- **Secure by default**
-- **Observable at every layer**
-- **Automated end-to-end**
-- **Cost-aware and resilient**
-- **Easy for developers to use**
+💼 **Open to senior roles & consulting opportunities**
 
 ---
 
-## 🧰 Technical Skill Set
+## 🧰 Tech Stack
 
-**Cloud Platforms**  
-AWS · Azure · Google Cloud
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-**Containers & Orchestration**  
-Docker · Kubernetes (EKS / AKS / GKE) · Helm
+### ☸ Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
-**CI/CD & Automation**  
-Jenkins · GitLab CI · GitHub Actions · Git
+### ⚙️ CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Infrastructure as Code**  
-Terraform · Ansible
+### 🏗 Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
-**Observability & Logging**  
-Prometheus · Grafana · ELK Stack · OpenTelemetry
+### 📊 Observability & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 
-**Security & DevSecOps**  
-AWS IAM · RBAC · TLS/SSL · Secrets Management · Policy Enforcement
+### 🔐 Security & DevSecOps
+![IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-Security-blue?style=flat-square)
+![TLS](https://img.shields.io/badge/TLS-Encryption-success?style=flat-square)
 
-**Programming & Scripting**  
-Python · Bash
-
-**AI-Assisted Engineering**  
-Cursor AI (DevOps productivity & automation)
+### 🤖 AI for DevOps
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
 ## 💼 Professional Experience
 
-### Senior DevSecOps Engineer — **EPAM Systems**
-*Hyderabad · Jun 2023 – Present*
+### 🟦 Senior DevSecOps Engineer — **EPAM Systems**
+📍 Hyderabad &nbsp;|&nbsp; 🗓 *Jun 2023 – Present*
 
-- Designed and automated AWS infrastructure using Terraform and Ansible, reducing provisioning time by **60%**
-- Built and operated highly available Kubernetes clusters with RBAC and monitoring, improving uptime by **30%**
-- Designed CI/CD pipelines using Jenkins and GitLab CI, reducing release cycles from weeks to hours
-- Embedded DevSecOps practices including image scanning, secrets management, and policy controls
-- Implemented AWS cost-optimization strategies, reducing monthly spend by **20%**
-
-**Environment:** AWS, Kubernetes, Terraform, Jenkins, GitLab CI, Docker, Prometheus
+- 🚀 Automated AWS infrastructure using Terraform & Ansible (**60% faster provisioning**)
+- ☸ Built HA Kubernetes clusters with RBAC & monitoring (**30% uptime improvement**)
+- 🔄 Designed CI/CD pipelines with Jenkins & GitLab CI (weeks → hours)
+- 🔐 Integrated DevSecOps practices (image scanning, secrets, policies)
+- 💰 Reduced AWS monthly costs by **20%**
 
 ---
 
-### DevSecOps Engineer — **Eastvantage**
-*Remote · May 2022 – May 2023*
+### 🟩 DevSecOps Engineer — **Eastvantage**
+🌍 Remote &nbsp;|&nbsp; 🗓 *May 2022 – May 2023*
 
-- Collaborated with development teams to streamline CI/CD workflows
-- Automated infrastructure operations using shell scripting and Ansible, reducing manual effort by **50%**
-- Deployed Docker-based microservices on Kubernetes
-- Implemented autoscaling strategies resulting in **35% infrastructure cost reduction**
-- Improved MTTR through effective monitoring and alerting
-
-**Environment:** AWS, Jenkins, Docker, Kubernetes, ELK Stack, Ansible, Python
+- ⚙️ Automated infrastructure operations (**50% less manual effort**)
+- 🐳 Deployed Dockerized microservices on Kubernetes
+- 📈 Implemented autoscaling (**35% infra cost reduction**)
+- 📊 Improved MTTR using Prometheus & Grafana
 
 ---
 
-### Cloud Engineer — **Cyient India Pvt Ltd**
-*Austin, TX · Sep 2018 – Dec 2021*
+### 🟨 Cloud Engineer — **Cyient India Pvt Ltd**
+📍 Austin, TX &nbsp;|&nbsp; 🗓 *Sep 2018 – Dec 2021*
 
-- Supported Linux and Windows servers including patching, upgrades, and troubleshooting
-- Built and maintained Jenkins pipelines for automated builds and deployments
-- Containerized legacy applications using Docker as part of cloud migration initiatives
-- Monitored infrastructure and application health using open-source tools
-- Supported senior engineers on large-scale cloud transformation projects
-
-**Environment:** AWS, Linux, Bash, Git, MySQL
+- 🖥 Linux & Windows server operations
+- 🔄 Jenkins-based CI/CD automation
+- 🐳 Containerized legacy applications using Docker
+- ☁️ Supported large-scale cloud migration initiatives
 
 ---
 
-## 🧪 Selected Projects
+## 🏆 Featured Projects
 
-### DevOps Production Blueprint
-A real-world reference architecture demonstrating how modern DevOps platforms are designed and operated in production.
+### ⭐ DevOps Production Blueprint
+Enterprise-grade DevOps reference architecture (real production patterns).
 
-- Terraform-based AWS infrastructure
-- Secure Kubernetes platform with RBAC and network controls
-- CI/CD pipelines using Jenkins and GitHub Actions
-- Helm-based application delivery
-- Observability with Prometheus, Grafana, and ELK
-- TLS, secrets management, and audit logging
+- 🏗 Terraform-based AWS & EKS infrastructure
+- ☸ Secure Kubernetes (RBAC, network policies)
+- ⚙️ Jenkins & GitHub Actions pipelines
+- 📊 Prometheus, Grafana & ELK
+- 🔐 TLS, secrets & audit logging
 
-**Repository:** `devops-production-blueprint`
-
----
-
-### Kubernetes Platform Engineering
-- Designed a centralized Kubernetes platform with integrated CI/CD and observability
-- Reduced deployment complexity by **70%**
-- Improved resource utilization by **45%**
+📌 **Repo:** `devops-production-blueprint`
 
 ---
 
-### Security & Compliance Automation
-- Built automated security pipelines integrating SAST, DAST, and infrastructure checks
-- Supported **SOC 2 Type II** compliance initiatives
-- Reduced security vulnerabilities by **85%**
+### ☸ Kubernetes Platform Engineering
+- 🔧 Centralized Kubernetes platform
+- ⬇️ **70% reduction** in deployment complexity
+- 📈 **45% improvement** in resource utilization
 
 ---
 
-### Observability Platform
-- Implemented metrics, logging, and tracing for **50+ microservices**
-- Reduced mean time to resolution (MTTR) by **60%**
+### 🔐 Security & Compliance Automation
+- 🛡 SAST + DAST + infra security scans
+- ✅ SOC 2 Type II support
+- ⬇️ **85% vulnerability reduction**
+
+---
+
+### 📊 Observability Platform
+- 📡 Monitoring for **50+ microservices**
+- ⏱ **60% MTTR reduction**
 
 ---
 
 ## 🎓 Certification
 
-**Certified Kubernetes Administrator (CKA)**  
-*Previously certified — strong hands-on production experience*
+🏅 **Certified Kubernetes Administrator (CKA)**  
+*(Previously certified — strong real-world Kubernetes experience)*
 
 ---
 
 <p align="center">
   <sub>
-    Focused on building reliable, secure, and scalable systems
+    ⚙️ Automation &nbsp;•&nbsp; 🔐 Security &nbsp;•&nbsp; 📊 Reliability &nbsp;•&nbsp; ☁️ Scale
   </sub>
 </p>
